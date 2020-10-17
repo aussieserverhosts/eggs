@@ -32,6 +32,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [CorpBot](/bots/discord/corpbot/) Python
 * [discord.js](bots/discord/discord.js/) Node JS generic
 * [discord.py](bots/discord/discord.py/) Python generic
+* [discordgo](bots/discord/discordgo/) golang generic
 * [fragbot](/bots/discord/fragbot/) Golang
 * [jmusicbot](/bots/discord/jmusicbot) Java
 * [parkertron](/bots/discord/parkertron/) Golang
@@ -63,7 +64,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [PostgreSQL](/database/sql/postgres/)
 
 ## Game Eggs
-[Among Us Impostor Server (/among_us_impostor_server)
+[Among Us Impostor Server](/among_us_impostor_server)
 
 [ET Legacy](/enemy_territory/etlegacy/)
 
@@ -102,10 +103,11 @@ If you are reading this it looks like you are looking to add an egg to your serv
   * [VanillaCord](/minecraft/java/vanillacord/)
 
 * [Proxies](/minecraft/proxy/) (these are for the java version of minecraft)
-  * [Waterfall](/minecraft/proxy/waterfall/)
   * [TyphoonLimbo](/minecraft/proxy/typhoonlimbo/)
   * [Travertine](/minecraft/proxy/travertine/) Java
   * [Velocity](/minecraft/proxy/velocity/)
+  * [Waterdog](/minecraft/proxy/waterdog/) Java/Bedrock
+  * [Waterfall](/minecraft/proxy/waterfall/)
 
 [OpenRA](/openra/)
 * [OpenRA Dune2000](/openra/openra_dune2000)
